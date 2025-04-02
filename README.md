@@ -1,38 +1,13 @@
-Principais Características
-Página Inicial (index.html)
+E uma aplicação web temática dedicada ao Homem-Aranha, apresentando  nas três versões que aparecem nos filmes: Tobey Maguire, Andrew Garfield e Tom Holland. O seu desenvolvido foi uma abordagem que prioriza a experiência visual e a interatividade, com a presença de recursos dinâmicos e um design atraente.
 
-Carrossel 3D interativo: Cards rotativos que representam cada ator, com efeitos de hover e transições suaves.
+HTML5:
+Estrutura semântica
 
-Menu de navegação: Links para as páginas específicas de cada versão do Homem-Aranha.
+CSS3:
+Flexbox/Grid: Para layouts responsivos (ex: carrossel 3D, galeria).
+Transições/Animações: Efeitos suaves (hover, rotação 3D).
+Variáveis CSS: Cores e estilos reutilizáveis (ex: --primary-color: #B9001F).
 
-Design responsivo: Adapta-se a diferentes tamanhos de tela.
-
-Páginas Internas (ex: spiderman1.html)
-
-Vídeo de fundo: Trailer do filme em autoplay (com loop).
-
-Navegação vertical: Acesso rápido aos filmes da mesma trilogia.
-
-Galeria de imagens: Utiliza Fancybox para ampliação das fotos.
-
-Sinopse e detalhes: Informações sobre o filme, diretor e ano de lançamento.
-
-Estilização (CSS)
-
-Componentes reutilizáveis:
-
-Navigator (barra de navegação vertical).
-
-Pills (tags estilizadas para informações).
-
-Link-button (botões com ícones personalizados).
-
-Gallery (galeria de imagens responsiva).
-
-Efeitos visuais: Transições, hover effects e transformações 3D.
-
-Tecnologias Utilizadas
-
-HTML5 e CSS3: Estrutura semântica e estilos modernos.
-
-JavaScript (Fancybox): Para a galeria interativa.
+JavaScript:
+Bibliotecas: Fancybox (galeria de imagens).
+Interatividade: Carrossel 3D (não mostrado no código, mas sugerido pelo CSS).
